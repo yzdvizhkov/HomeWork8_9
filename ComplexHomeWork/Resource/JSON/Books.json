@@ -1,0 +1,189 @@
+{
+    "books": [
+        {
+            "bookTitle": "1984",
+            "author": "George Orwell",
+            "year": 1949
+        },
+        {
+            "bookTitle": "Убик",
+            "author": "Філіп К. Дік",
+            "year": 1969
+        },
+        {
+            "bookTitle": "Таємниця листа",
+            "author": "Карлос Руїс Зафон",
+            "year": 2018
+        },
+        {
+            "bookTitle": "Майстер і Маргарита",
+            "author": "Михайло Булгаков",
+            "year": 1967
+        },
+        {
+            "bookTitle": "Тінь вітру",
+            "author": "Карлос Руїс Зафон",
+            "year": 2001
+        },
+        {
+            "bookTitle": "Великий Гетсбі",
+            "author": "Френсіс Скотт Фіцджеральд",
+            "year": 1925
+        },
+        {
+            "bookTitle": "Місто скляних",
+            "author": "Кассандра Клэр",
+            "year": 2007
+        },
+        {
+            "bookTitle": "Гра Престолів",
+            "author": "Джордж Р. Р. Мартін",
+            "year": 1996
+        },
+        {
+            "bookTitle": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "year": 1960
+        },
+        {
+            "bookTitle": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "year": 1925
+        },
+        {
+            "bookTitle": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "year": 1813
+        },
+        {
+            "bookTitle": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "year": 1951
+        },
+        {
+            "bookTitle": "Brave New World",
+            "author": "Aldous Huxley",
+            "year": 1932
+        },
+        {
+            "bookTitle": "To the Lighthouse",
+            "author": "Virginia Woolf",
+            "year": 1927
+        },
+        {
+            "bookTitle": "Moby-Dick",
+            "author": "Herman Melville",
+            "year": 1851
+        },
+        {
+            "bookTitle": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "year": 1937
+        },
+        {
+            "bookTitle": "Frankenstein",
+            "author": "Mary Shelley",
+            "year": 1818
+        },
+        {
+            "bookTitle": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "year": 1954
+        },
+        {
+            "bookTitle": "Jane Eyre",
+            "author": "Charlotte Bronte",
+            "year": 1847
+        },
+        {
+            "bookTitle": "The Chronicles of Narnia",
+            "author": "C.S. Lewis",
+            "year": 1950
+        },
+        {
+            "bookTitle": "The Picture of Dorian Gray",
+            "author": "Oscar Wilde",
+            "year": 1890
+        },
+        {
+            "bookTitle": "The Alchemist",
+            "author": "Paulo Coelho",
+            "year": 1988
+        },
+        {
+            "bookTitle": "The Kite Runner",
+            "author": "Khaled Hosseini",
+            "year": 2003
+        },
+        {
+            "bookTitle": "The Hitchhiker's Guide to the Galaxy",
+            "author": "Douglas Adams",
+            "year": 1979
+        },
+        {
+            "bookTitle": "The Hunger Games",
+            "author": "Suzanne Collins",
+            "year": 2008
+        },
+        {
+            "bookTitle": "The Da Vinci Code",
+            "author": "Dan Brown",
+            "year": 2003
+        },
+        {
+            "bookTitle": "The Girl with the Dragon Tattoo",
+            "author": "Stieg Larsson",
+            "year": 2005
+        },
+        {
+            "bookTitle": "The Fault in Our Stars",
+            "author": "John Green",
+            "year": 2012
+        },
+        {
+            "bookTitle": "The Book Thief",
+            "author": "Markus Zusak",
+            "year": 2005
+        },
+        {
+            "bookTitle": "The Giver",
+            "author": "Lois Lowry",
+            "year": 1993
+        },
+        {
+            "bookTitle": "The Maze Runner",
+            "author": "James Dashner",
+            "year": 2009
+        },
+        {
+            "bookTitle": "Dune",
+            "author": "Frank Herbert",
+            "year": 1965
+        },
+        {
+            "bookTitle": "The Adventures of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "year": 1892
+        },
+        {
+            "bookTitle": "Wuthering Heights",
+            "author": "Emily Bronte",
+            "year": 1847
+        },
+        {
+            "bookTitle": "Lord of the Flies",
+            "author": "William Golding",
+            "year": 1954
+        },
+        {
+            "bookTitle": "A Game of Thrones",
+            "author": "George R.R. Martin",
+            "year": 1996
+        },
+        {
+            "bookTitle": "The Handmaid's Tale",
+            "author": "Margaret Atwood",
+            "year": 1985
+        }
+    ]
+}
